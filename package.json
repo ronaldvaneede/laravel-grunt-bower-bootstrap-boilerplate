@@ -1,0 +1,16 @@
+{
+  "name": "change-me",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.8.3",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-phpunit": "~0.3.2"
+  }
+}
